@@ -1,0 +1,17 @@
+{
+  "name": "release-notes-generator-jira-linked-ticket-extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cube-Solutions/release-notes-generator-jira-linked-ticket-extension.git"
+  },
+  "keywords": [
+    "jira",
+    "release-notes-generator-extension"
+  ],
+  "dependencies": {
+    "jira-client": "^8.1.0",
+    "debug": "^4.0.0"
+  }
+}
